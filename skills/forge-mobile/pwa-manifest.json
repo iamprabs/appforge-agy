@@ -1,0 +1,8 @@
+{
+  "name": "AppForge Application",
+  "short_name": "AppForge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5"
+}

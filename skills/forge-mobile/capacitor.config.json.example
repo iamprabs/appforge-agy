@@ -1,0 +1,6 @@
+{
+  "appId": "com.appforge.app",
+  "appName": "AppForge App",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
