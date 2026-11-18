@@ -1,0 +1,34 @@
+{
+  "name": "appforge-agy",
+  "displayName": "AppForge",
+  "version": "1.0.0",
+  "description": "Seventeen modular skills for Antigravity that forge any app: reverse-engineer it, architect it, AI-supercharge it, test it, rebrand it, and ship clean-room products.",
+  "author": {
+    "name": "Pradeep Landge",
+    "url": "https://github.com/iamprabs"
+  },
+  "homepage": "https://github.com/iamprabs/appforge-agy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamprabs/appforge-agy"
+  },
+  "keywords": [
+    "antigravity",
+    "app-builder",
+    "reverse-engineering",
+    "clean-room",
+    "saas",
+    "skills",
+    "ai",
+    "full-stack"
+  ],
+  "suggestedPrompts": [
+    "Reverse engineer an app using forge-recon",
+    "Design the architecture and schema with forge-architect",
+    "Add AI features to my app using forge-ai",
+    "Seed realistic relational mock data with forge-seed",
+    "Audit database RLS and security with forge-security",
+    "Compare my clone against the original with forge-diff",
+    "Find competitor weaknesses with forge-entrepreneur"
+  ]
+}
