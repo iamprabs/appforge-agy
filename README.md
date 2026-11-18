@@ -172,4 +172,3 @@ Contributions from the Antigravity and open-source agent community are warmly we
 
 - Licensed under the **[MIT License](LICENSE)**.
 - Created by **[Pradeep Landge](https://github.com/iamprabs)**.
-- Upstream conceptual inspiration from Jake Schincariol's `replica-skill`.
